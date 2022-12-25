@@ -1,8 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Alok</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
-</div>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Hello+there!;My+name+is+Alok.;I+am+a+student+from+India." />
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
