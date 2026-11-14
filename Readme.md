@@ -1,4 +1,4 @@
-<img src="banner.gif" alt="Alok Kumar. A desk of sites, drawn in line." width="100%" />
+<img src="header.gif" alt="Alok Kumar. A desk of sites, drawn in line." width="100%" />
 
 <br/>
 
